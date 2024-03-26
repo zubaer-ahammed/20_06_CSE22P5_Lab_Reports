@@ -2,3 +2,5 @@
 
 01. General Problem Solution Flowchart
 02. Use Case Diagram of a Clinic
+03. UML Class Diagram of an Online Order Management System
+04. UML Sequence Metro rail Ticket Vending Machine System
