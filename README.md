@@ -5,4 +5,10 @@
 03. UML Class Diagram of an Online Order Management System
 04. UML Sequence Metro rail Ticket Vending Machine System
 
-+ +Other problems.
+# Problems:
+
+01. UML Use-Case diagram of ATM System
+02. UML Sequence Diagram for a Communication over Phone
+03. UML Class Diagram for company structure
+04. General DFD for Airline Reservation System
+
