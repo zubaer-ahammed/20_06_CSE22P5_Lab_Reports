@@ -11,4 +11,5 @@
 02. UML Sequence Diagram for a Communication over Phone
 03. UML Class Diagram for company structure
 04. General DFD for Airline Reservation System
+05. Use Case Diagram of a Hotel Management System
 
